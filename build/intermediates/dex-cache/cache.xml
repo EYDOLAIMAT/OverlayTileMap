@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c86b646844160c93b10cc2b670a0ec9ad4783700">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3e792093136508783f4c392490bb0c1102b4073a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -108,6 +117,15 @@
         revision="25.0.1"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
         <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp2\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b9fc60b4c69897964e1e777a36e6c100ca55466d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b1cd2fa433c5aa4cd62883297abbcd9ad364f24b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,6 +219,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_3ba2c509d2f0dcb4bc7bb7e69f1ae15a4fae9416.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp44\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -246,6 +273,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_8c422b6b6488abcaca1612ade5def729bf0648ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp3\app\libs\HERE-sdk.jar"
         jumboMode="true"
         optimize="true"
@@ -282,6 +318,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ba1d586fd9bb5f0a672985ba858306b11dec4060.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -300,12 +345,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_b21c4f144c3427453d087ac1e801355f48b961e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_5927cecbb7e71227ac8905bf7c074399fd421829.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp44\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
         <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp44\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6c0b86eb057391dc86882535bee967b4e962e896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3d0e368e2e9f1c5b9abe79e3a6632411f51f3c6e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -444,6 +516,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a105023b8c80268b7acce802b159ee199f23aeb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp2\app\libs\HERE-sdk.jar"
         jumboMode="true"
         optimize="true"
@@ -459,6 +540,15 @@
         revision="25.0.1"
         sha1="5f6a7c2bff8f00f0e6a657a274d362577c186e23">
         <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp2\app\build\intermediates\pre-dexed\debug\instant-run_5477addb0d6440ba99f994f98714445edbb9a18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d03ad2259d51ae9deb9758fb885d047c4d1df6be">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\instant-run_249a8e218b4cdce9766a307cb9cdd1be4005003a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -498,6 +588,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_d6dc56fae0890e71572df91f8f877d8fccb8d965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_3aeb60c3fb85738dcc751d45cdef27a0b90ff0df.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -513,6 +621,15 @@
         revision="25.0.1"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
         <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_e4fbfd363602f3cbf98a077653e25beb60f6126e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9894b56c66f58b01610e70dc8b621a39ad27c364.jar" />
     </item>
     <item
         is-multidex="false"
@@ -570,12 +687,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_62ceb02425c67baa87d2ab506e0d5ca841f97871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\libs\HERE-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7470d0deb468b65758f626f3621e613cc176ca3">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\HERE-sdk_3ce995c995d52ec8db7dff3bfca41c82d5f1c75b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_297e1980dc3cf56ca390f26ac94b2af96d7dc562.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2ce9f74658189044993b4e0ab6bdc4a1230fe4af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Gistec\GitHubWork\OverlayTileMap\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_a02f8387ead329fbc46373d0faf3e8f6e85f34fc.jar" />
     </item>
     <item
         is-multidex="false"

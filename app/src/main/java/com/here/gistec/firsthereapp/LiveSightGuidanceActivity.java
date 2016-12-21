@@ -157,9 +157,9 @@ public class LiveSightGuidanceActivity extends Activity {
     public class LiveMapRasterTileSource extends UrlMapRasterTileSourceBase {
 
         private final static String URL_FORMAT =
-               // "http://tile.openstreetmap.com/{z}/{x}/{y}.png";
+                "http://tile.openstreetmap.com/{z}/{x}/{y}.png";
 
-                "https://1.aerial.maps.cit.api.here.com/maptile/2.1/maptile/newest/terrain.day/{z}/{x}/{y}/256/png8?app_id=lyTqc8CuKF6pEZ6K6WRD&app_code=dfHUzP9gUTxaaJw3rpe2nQ";
+               // "https://1.aerial.maps.cit.api.here.com/maptile/2.1/maptile/newest/terrain.day/{z}/{x}/{y}/256/png8?app_id=lyTqc8CuKF6pEZ6K6WRD&app_code=dfHUzP9gUTxaaJw3rpe2nQ";
 
         public LiveMapRasterTileSource() {
             // We want the tiles placed over everything else
